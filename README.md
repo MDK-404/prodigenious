@@ -34,11 +34,25 @@ Prodigenius is a Flutter-based task management mobile app powered by AI. It help
 
 ## 📸 Screenshots
 
-| Signup |  Home Screen | Add Task | Scheduled Task | 
-|-------------|----------|-------------------|
-| ![Signup](assets/signup.png) || ![Home](assets/home.png) | ![Add Task](assets/addtask.jpg) | ![Scheduled Tasks](assets/scheduledtasks.png) |
-
-> 📌 *Replace the above image paths with your own screenshots saved in a `/screenshots` folder in your repo.*
+<p align="center">
+  <img src="assets/splashscreen.png" width="250"/>
+  <img src="assets/signup.png" width="250"/>
+  <img src="assets/login.png" width="250"/>
+</p>
+<p align="center">
+  <img src="assets/resetpassword.png" width="250"/>
+  <img src="assets/home.png" width="250"/>
+  <img src="assets/addtask.jpg" width="250"/>
+</p>
+<p align="center">
+  <img src="assets/editprofile.png" width="250"/>
+  <img src="assets/scheduledtasks.png" width="250"/>
+  <img src="assets/hisotry.png" width="250"/>
+</p>
+<p align="center">
+  <img src="assets/dashboard.png" width="250"/>
+  <img src="assets/insights.png" width="250"/>
+</p>
 
 ---
 
@@ -51,17 +65,4 @@ Prodigenius is a Flutter-based task management mobile app powered by AI. It help
 - tflite_flutter Plugin – [Plugin Page](https://pub.dev/packages/tflite_flutter)
 - Flutter Local Notifications – [Plugin Page](https://pub.dev/packages/flutter_local_notifications)
 - Dart DevTools – [DevTools](https://dart.dev/tools/dart-devtools)
-
----
-
-## 📩 Contact
-
-**Client**: Usama Ilyas  
-**Developer**: [Your Name or GitHub Profile Link]
-
----
-
-## 📝 License
-
-This project is for educational/demo purposes and uses free and open-source tools. You can modify it as needed for your own use.
 
