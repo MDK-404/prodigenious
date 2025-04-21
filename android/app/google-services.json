@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "991931419192",
+    "project_id": "prodigenious-94b72",
+    "storage_bucket": "prodigenious-94b72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991931419192:android:5ad2da446b7fdb351db4cd",
+        "android_client_info": {
+          "package_name": "com.example.prodigenious"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991931419192-1li0ljmkjmksjkkjltj9r3q5a8sd3njl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prodigenious",
+            "certificate_hash": "f4a22ca52d4ab76fdc3e334e0df68913405d9a43"
+          }
+        },
+        {
+          "client_id": "991931419192-rgqme4eav4tmf5pe1ds0c941863qe2ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prodigenious",
+            "certificate_hash": "e51a05d9d1a926e94d9b3c129f1233ac3cf7af92"
+          }
+        },
+        {
+          "client_id": "991931419192-u5gui041vpdava57345k0ajq9qpesj3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvodB-Ho-A1wolYSOHlSq_BuMuDtl8hW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991931419192-u5gui041vpdava57345k0ajq9qpesj3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991931419192-k9naoua36f6i0bbop3pbq6hmhvapttdf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prodigenious"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
